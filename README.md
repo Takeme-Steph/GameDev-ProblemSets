@@ -20,3 +20,11 @@ Please note these do not yet have .exe files, i will add this later, trying to k
 ## Mario
   This is a retro platform game inspired by the popular Super Mario game. Built with Lua on Love 2D game engine
   Demo Video - https://youtu.be/LWhWgB0QeDk
+  
+## Zelda
+  This is an infinite dungeon crawlwer game inspired by the popular zelda game. Built with Lua on Love 2D game engine
+  Demo Video - https://youtu.be/dExCDMOg_qk
+  
+## Pokemon
+  This is an rpg monster battle game inspired by the first version of Pokemon. Built with Lua on Love 2D game engine
+  Demo Video - https://youtu.be/xJ7vApNPhy0
